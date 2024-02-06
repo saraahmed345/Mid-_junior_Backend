@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Mid_Junior_backend\Mid_Junior_backend\obj\Debug\net6.0\Mid_Junior_backend.MvcApplicationPartsAssemblyInfo.cache
